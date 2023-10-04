@@ -9,7 +9,9 @@ before_script:
 
 pages:
   script:
+    - hexo clean
     - hexo generate
+    - hexo d
   artifacts:
     paths:
       - public
