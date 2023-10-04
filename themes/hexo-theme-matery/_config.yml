@@ -374,8 +374,8 @@ minivaline:
 
 waline:
   enable: true
-  server: https://book-comments-h1y7p5run-deep-hearts-projects.vercel.app/
-  # admin ui https://book-comments-h1y7p5run-deep-hearts-projects.vercel.app/ui
+  server: https://book-comments-deep-hearts-projects.vercel.app/
+  # admin ui https://book-comments-deep-hearts-projects.vercel.app/ui
 
 changyan:
   enable: false
