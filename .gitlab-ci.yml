@@ -10,7 +10,7 @@ before_script:
 pages:
   script:
     - hexo clean
-    - hexo generate --config _config.yml','deploy/gitlab.yml
+    - hexo generate --config _config.yml,deploy/gitlab.yml
   artifacts:
     paths:
       - public
