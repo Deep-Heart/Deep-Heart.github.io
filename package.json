@@ -6,6 +6,7 @@
     "version": "6.3.0"
   },
   "scripts": {
+    "build": "hexo generate",
     "build-for-github": "hexo generate --config _config.yml,deploy/github.yml",
     "clean": "hexo clean",
     "deploy": "hexo deploy",

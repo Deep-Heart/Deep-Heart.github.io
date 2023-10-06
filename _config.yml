@@ -13,8 +13,8 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://deep-heart.gitlab.io/great-book-comment
-root: /great-book-comment
+url: https://boomments.top
+root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
