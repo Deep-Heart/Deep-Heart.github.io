@@ -26,7 +26,7 @@ jobs:
       - name: Install Dependencies
         run: npm install
       - name: Build
-        run: hexo generate --config _config.yml,deploy/github.yml
+        run: npm run build-for-github
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
