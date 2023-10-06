@@ -416,7 +416,7 @@ googleAnalytics:
 # 添加 baidu Analytics 配置
 baiduAnalytics:
   enable: true
-  id: 0260af82b831fcf6995fab98698ea627
+  id: ed66161b2c4c89da3050c6358cf82383
 
 # 百度搜索资源平台提交链接
 baiduPush: true
