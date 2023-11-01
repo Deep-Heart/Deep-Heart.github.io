@@ -410,7 +410,8 @@ busuanziStatistics:
 # 添加 Google Analytics 配置
 googleAnalytics:
   enable: true
-  id: G-4WPQ0LZLPM
+  id: G-4BFWJ3PDQC # book.jifou.cc
+  # id: G-4WPQ0LZLPM # boomments.top
 
 # Add baidu analytics configuration
 # 添加 baidu Analytics 配置
